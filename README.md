@@ -3,7 +3,7 @@
 
 
 
-![demo](yolov5_deepsort_demo.gif)
+![demo](yolov_deepsort_demo.gif)
 
 ## Tracking sources
 
